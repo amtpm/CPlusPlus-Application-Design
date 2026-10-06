@@ -11,8 +11,8 @@ A simple book tracker, where the user will be able to track books they want to r
 - [x] Module 2
 - [x] Module 3
 - [x] Module 4
-- [ ] Module 5
-- [ ] Module 6
+- [x] Module 5
+- [x] Module 6
 - [ ] Module 7
 - [ ] Module 8
 - [ ] Module 9
