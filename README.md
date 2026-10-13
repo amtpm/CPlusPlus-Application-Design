@@ -13,7 +13,7 @@ A simple book tracker, where the user will be able to track books they want to r
 - [x] Module 4
 - [x] Module 5
 - [x] Module 6
-- [ ] Module 7
+- [x] Module 7
 - [ ] Module 8
 - [ ] Module 9
 - [ ] Module 10
